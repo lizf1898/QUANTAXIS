@@ -3,6 +3,12 @@
 
 ------------------
 
+
+## 震惊！ 居然有人说quantaxis偷策略？？？
+http://www.jiaoyizhe.com/forum.php?mod=viewthread&tid=2060144
+实在不能忍 放首页鞭尸
+
+
 ![pypidownloads](https://img.shields.io/pypi/dm/quantaxis.svg)
 ![pypidownloads](https://img.shields.io/pypi/dw/quantaxis.svg)
 [![Backers on Open Collective](https://opencollective.com/QUANTAXIS/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/QUANTAXIS/sponsors/badge.svg)](#sponsors) 
@@ -225,11 +231,15 @@ QUANTAXIS 是一个开放的项目, 在开源的3年中有大量的小伙伴加�
 
 欢迎加群讨论: 563280067 [群链接](https://jq.qq.com/?_wv=1027&k=4CEKGzn) 
 
+DISCORD 社区  https://discord.gg/mkk5RgN
+
 QUANATXIS 前端开发群: 983499694 [群链接](https://jq.qq.com/?_wv=1027&k=5qYi8Fk)
 
 QUANATXIS 研报阅读/ 事件驱动分析群: 1045723486 [群链接](https://jq.qq.com/?_wv=1027&k=5Z3NVEW)
 
 QUANTAXIS 开发群: 773602202 (如果想要贡献代码 请加这个群 需要备注你的GITHUB ID)
+
+QUANTAXIS 期货实盘多账户的本地部署群 (请勿浪费群资源 没有本地多账户部署的请勿加): 945822690
 
 ### 公共号
 
