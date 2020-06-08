@@ -151,6 +151,7 @@ PS: 除了可视化的桌面端/网页端 QACommunity(内置在docker/ 群文件
 - [QUANTAXIS_PUBSUB](https://github.com/QUANTAXIS/QAPUBSUB) 基于RABBITMQ的消息分发订阅
 
 > 接口相关: 交易账户/ 期货接口封装/ Trader实例
+- [QATradeG](https://github.com/yutiansut/QAtradeG)  期货的直连版本接口的docker
 - [QUANTAXIS OTGBROKER](https://github.com/QUANTAXIS/QAOTGBROKER) 基于OPEN_TRADE_GATEWAY的接口封装
 - [QUANTAXIS CTPBEEBROKER](https://github.com/QUANTAXIS/QACTPBeeBroker) 基于CTPBee的接口封装
 - [QUANTAXIS_ATBROKER](https://github.com/QUANTAXIS/QA_AtBroker) 基于海风at的接口封装
@@ -305,3 +306,8 @@ lab 投研
 ![](http://pic.yutiansut.com/QQ%E6%88%AA%E5%9B%BE20190311015550.png)
 ![](http://pic.yutiansut.com/QQ%E6%88%AA%E5%9B%BE20190311015537.png)
 
+
+
+致谢:
+
+感谢JetBrain 公司提供的开源社区全系列License
